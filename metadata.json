@@ -1,0 +1,6 @@
+{
+  "name": "CasaTech",
+  "description": "Toute la technologie, au même endroit. Boutique high-tech au Maroc : smartphones, ordinateurs, tablettes, accessoires et équipements informatiques en MAD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
